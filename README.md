@@ -11,22 +11,22 @@ klasyfikację gatunku grzyba po przeanalizowaniu jego zdjęcia. Nie
 wprowadzaliśmy żadnych innych wejściowych, także model bazuje tylko i
 wyłącznie na przetwarzanym obrazie. Sklasyfikowanych mamy 16 klas:
 
-Indeks 0: Klasa 'Agaricus_campestris' - Pieczarka polna
-Indeks 1: Klasa 'Amanita_muscaria' - Muchomor czerwony
-Indeks 2: Klasa 'Armillaria_mellea' - Opieńka miodowa
-Indeks 3: Klasa 'Boletus_edulis' - Borowik szlachetny
-Indeks 4: Klasa 'Cantharellus_cibarius' - Kurka (Pieprznik jadalny)
-Indeks 5: Klasa 'Imleria_badia' - Podgrzybek brunatny
-Indeks 6: Klasa 'Lactarius_deliciosus' - Rydz
-Indeks 7: Klasa 'Leccinum_aurantiacum' - Koźlarz czerwony
-Indeks 8: Klasa 'Leccinum_scabrum' - Koźlarz babka
-Indeks 9: Klasa 'Macrolepiota_procera' - Czubajka kania
-Indeks 10: Klasa 'Morchella_esculenta' - Smardz jadalny
-Indeks 11: Klasa 'Neoboletus_erythropus' - Borowik ceglastopory
-Indeks 12: Klasa 'Rubroboletus_satanas' - Borowik szatański
-Indeks 13: Klasa 'Suillus_luteus' - Maślak zwyczajny
-Indeks 14: Klasa 'Tricholoma_equestre' - Gąska zielonka
-Indeks 15: Klasa 'Tricholoma_portentosum' - Gąska niekształtna
+- **Indeks 0**: Klasa `'Agaricus_campestris'` - Pieczarka polna  
+- **Indeks 1**: Klasa `'Amanita_muscaria'` - Muchomor czerwony  
+- **Indeks 2**: Klasa `'Armillaria_mellea'` - Opieńka miodowa  
+- **Indeks 3**: Klasa `'Boletus_edulis'` - Borowik szlachetny  
+- **Indeks 4**: Klasa `'Cantharellus_cibarius'` - Kurka (Pieprznik jadalny)  
+- **Indeks 5**: Klasa `'Imleria_badia'` - Podgrzybek brunatny  
+- **Indeks 6**: Klasa `'Lactarius_deliciosus'` - Rydz  
+- **Indeks 7**: Klasa `'Leccinum_aurantiacum'` - Koźlarz czerwony  
+- **Indeks 8**: Klasa `'Leccinum_scabrum'` - Koźlarz babka  
+- **Indeks 9**: Klasa `'Macrolepiota_procera'` - Czubajka kania  
+- **Indeks 10**: Klasa `'Morchella_esculenta'` - Smardz jadalny  
+- **Indeks 11**: Klasa `'Neoboletus_erythropus'` - Borowik ceglastopory  
+- **Indeks 12**: Klasa `'Rubroboletus_satanas'` - Borowik szatański  
+- **Indeks 13**: Klasa `'Suillus_luteus'` - Maślak zwyczajny  
+- **Indeks 14**: Klasa `'Tricholoma_equestre'` - Gąska zielonka  
+- **Indeks 15**: Klasa `'Tricholoma_portentosum'` - Gąska niekształtna  
 
 
 Na które składa się 4 798 zdjęć dla danych uczących i 526 zdjęć dla
