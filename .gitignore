@@ -5,7 +5,9 @@
 /scripts/downloaded_images/val
 /scripts/*.pth
 /scripts/*.onnx
+/scripts/model.onnx 
+/temp
 
 __pycache__/
-*.pyc
-*.pyo
+
+key*
