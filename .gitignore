@@ -1,0 +1,11 @@
+/csv/*.csv
+
+/images
+/scripts/downloaded_images/train
+/scripts/downloaded_images/val
+/scripts/*.pth
+/scripts/*.onnx
+
+__pycache__/
+*.pyc
+*.pyo
